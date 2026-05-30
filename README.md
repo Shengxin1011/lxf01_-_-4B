@@ -10,7 +10,8 @@
 | `LOBOROBOT.py` | 封装小车运动控制函数（含电机、舵机驱动） |
 | `TCP.ipynb` | 采用TCP协议传输控制指令的版本 |
 | `UDP.ipynb` | 采用UDP协议传输控制指令的版本 |
-| `UDP_new.ipynb` | **UDP协议优化版控制代码**，在原版基础上增加了传输高清裂纹图像的功能 |
+| `UDP_new.ipynb` | **UDP协议控制代码**，使用libcamera-still拍摄460万像素高清裂纹图像的功能 |
+| `UDP0528.ipynb` | **UDP协议控制代码**，截取720P视频帧拍摄高清裂纹图像的功能 |
 | `setup.exe` | 配套调试工具程序 |
 
 ---
